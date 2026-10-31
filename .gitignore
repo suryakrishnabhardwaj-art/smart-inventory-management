@@ -1,0 +1,11 @@
+node_modules/
+frontend/dist/
+backend/target/
+apache-maven-3.9.9/
+.maven.zip
+.env
+backend/.env
+frontend/.env
+*.log
+.idea/
+.vscode/
